@@ -27,7 +27,7 @@ $mahasiswa = query("SELECT * FROM mahasiswa");
       <th>No. </th>
       <th>Aksi</th>
       <th>gambar</th>
-      <th>NIM</th>
+      <th>nim</th>
       <th>Nama</th>
       <th>Email</th>
       <th>Jurusan</th>
