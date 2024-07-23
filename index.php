@@ -19,7 +19,7 @@ $mahasiswa = query("SELECT * FROM mahasiswa");
 </head>
 
 <body>
-  <h1>Daftar Mahasiswa</h1>
+  <h2>Daftar Mahasiswa</h2>
   <a href="tambah.php">Tambah Data Mahasiswa</a>
   <br>
   <table border="1" cellpadding="10" cellspacing="0">
